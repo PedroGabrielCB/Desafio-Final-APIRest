@@ -1,0 +1,10 @@
+insert into clientes (id, nome, sobrenome, email, idade) values (1, 'Johnna', 'Suddock', 'jsuddock0@sogou.com', 22);
+insert into clientes (id, nome, sobrenome, email, idade) values (2, 'Heywood', 'Crilley', 'hcrilley1@cnn.com', 37);
+insert into clientes (id, nome, sobrenome, email, idade) values (3, 'Correna', 'Abrahim', 'cabrahim2@hc360.com', 79);
+insert into clientes (id, nome, sobrenome, email, idade) values (4, 'Tailor', 'Teese', 'tteese3@woothemes.com', 59);
+insert into clientes (id, nome, sobrenome, email, idade) values (5, 'Fraze', 'Trembley', 'ftrembley4@stanford.edu', 24);
+insert into clientes (id, nome, sobrenome, email, idade) values (6, 'Alexei', 'Pregal', 'apregal5@mayoclinic.com', 56);
+insert into clientes (id, nome, sobrenome, email, idade) values (7, 'Berke', 'Jocelyn', 'bjocelyn6@networksolutions.com', 60);
+insert into clientes (id, nome, sobrenome, email, idade) values (8, 'Sarine', 'Yerrall', 'syerrall7@jimdo.com', 33);
+insert into clientes (id, nome, sobrenome, email, idade) values (9, 'Averell', 'Hunnisett', 'ahunnisett8@google.nl', 52);
+insert into clientes (id, nome, sobrenome, email, idade) values (10, 'Ekaterina', 'Wherrett', 'ewherrett9@digg.com', 28);
